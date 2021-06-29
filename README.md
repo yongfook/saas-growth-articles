@@ -29,3 +29,5 @@ Articles should:
 [Veed](https://www.veed.io) - [0-1M ARR in 12 Months Bootsrapped](https://www.veed.io/blog/0-1m-arr-12-months/)
 
 [Whatsapp Chat Button](https://apps.shopify.com/whatsapp-chat-button) - [How I grew my Shopify micro-SaaS to $25k MRR and 20k users in 14 months](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
+
+[ContactEcom](https://contactecom.com/) - [My SaaS Made $12.5K MRR in 1 Month. Here’s what I learned.](https://omaidfaizyar.medium.com/my-saas-made-12-5k-mrr-in-1-month-heres-what-i-learned-447d61adee2a)
