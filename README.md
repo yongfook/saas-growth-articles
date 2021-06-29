@@ -28,6 +28,8 @@ Articles should:
 
 [ScreenCloud](https://screencloud.com/) - [8 things that will definitely happen as you scale your SaaS business from $0-$1m](https://medium.com/screencloud-journey/8-things-that-will-definitely-happen-as-you-scale-your-saas-business-from-0-1m-f42aa7c37be0)
 
+[Tettra](https://tettra.com) - [Navigating the Depths of Near Failure to Profitability](https://open.tettra.com/navigating-the-depths-of-near-failure-to-profitability-an-introduction/)
+
 [Veed](https://www.veed.io) - [0-1M ARR in 12 Months Bootsrapped](https://www.veed.io/blog/0-1m-arr-12-months/)
 
 [Whatsapp Chat Button](https://apps.shopify.com/whatsapp-chat-button) - [How I grew my Shopify micro-SaaS to $25k MRR and 20k users in 14 months](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months)
