@@ -20,6 +20,8 @@ Articles should:
 
 [Friendly](https://friendly.is/en/10k-mrr) - [Friendly Crossed $10k MRR! Here Are My 10 Most Important Learnings.](https://friendly.is/en/10k-mrr)
 
+[GrowSurf](https://growsurf.com/) - [How We Turned Around A Failing SaaS To $24k MRR](https://www.indiehackers.com/post/how-we-turned-around-a-failing-saas-to-24k-mrr-1ffd18553f?utm_source=pocket-app&utm_medium=share)
+
 [lemlist](https://www.lemlist.com/) - [365 days of growth — from 0 to $250k ARR without funding](https://medium.com/@guillaume.moubeche/365-days-of-growth-from-0-to-250k-arr-2014d0c54671)
 
 [Plausible](https://plausible.io) - [What we learned on our journey to $10,000 MRR](https://plausible.io/blog/growing-saas-mrr)
