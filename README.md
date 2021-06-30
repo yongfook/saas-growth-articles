@@ -18,7 +18,7 @@ Articles should:
 
 [Everhour](https://everhour.com/) - [Growing Our SaaS Company To $1M+ ARR: 7 People, 3 Years, No VC Money. Key Lessons Learned](https://medium.com/everhour/growing-our-saas-company-to-1m-arr-7-people-3-years-no-vc-money-key-lessons-learned-2d53766507d2)
 
-[Friendly](https://friendly.is/en/10k-mrr) - [Friendly Crossed $10k MRR! Here Are My 10 Most Important Learnings.](https://friendly.is/en/10k-mrr)
+[Friendly](https://friendly.is/) - [Friendly Crossed $10k MRR! Here Are My 10 Most Important Learnings.](https://friendly.is/en/10k-mrr)
 
 [GrowSurf](https://growsurf.com/) - [How We Turned Around A Failing SaaS To $24k MRR](https://www.indiehackers.com/post/how-we-turned-around-a-failing-saas-to-24k-mrr-1ffd18553f?utm_source=pocket-app&utm_medium=share)
 
